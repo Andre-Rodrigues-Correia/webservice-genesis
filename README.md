@@ -8,7 +8,7 @@
   python server.py
 ```
 
-### como iniciar o servidor em produção ?
+### como iniciar o client ?
 ```bash
   python .\client.py
 ```
